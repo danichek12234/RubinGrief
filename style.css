@@ -34,34 +34,8 @@ body, html {
   background-image: url('https://i.imgur.com/zRI1P4B.jpeg'); /* Minecraft сундуки/кейсы */
 }
 
-.connect {
-  background-color: rgba(0, 0, 0, 0.8);
-  color: white;
-  text-align: center;
-}
-
 .content {
   background: rgba(0, 0, 0, 0.5);
   padding: 20px;
   border-radius: 15px;
-}
-
-.play-btn {
-  font-size: 20px;
-  color: white;
-  background-color: #f39c12;
-  padding: 15px 30px;
-  border-radius: 5px;
-  text-decoration: none;
-  margin-top: 20px;
-  transition: background-color 0.3s ease;
-}
-
-.play-btn:hover {
-  background-color: #e67e22;
-}
-
-.connect p {
-  font-size: 18px;
-  line-height: 1.5;
 }
