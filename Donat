@@ -3,7 +3,7 @@
   <meta charset="UTF-8">
   <title>Кнопки Покупки</title>
   <style>
-    .buy-button {
+    .buy-button {Покупка
       display: inline-flex;
       align-items: center;
       padding: 10px 20px;
